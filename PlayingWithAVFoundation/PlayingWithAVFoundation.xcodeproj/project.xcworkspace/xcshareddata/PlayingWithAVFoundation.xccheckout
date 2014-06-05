@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>B1BEFF73-6596-46A4-A411-50A41D4D3D18</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PlayingWithAVFoundation</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>E9E83DE1-7C4A-4E76-918C-0598BB287D77</key>
+		<string>ssh://github.com/lenli/PlayingWithAVFoundation.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PlayingWithAVFoundation/PlayingWithAVFoundation.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>E9E83DE1-7C4A-4E76-918C-0598BB287D77</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://github.com/lenli/PlayingWithAVFoundation.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>E9E83DE1-7C4A-4E76-918C-0598BB287D77</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>E9E83DE1-7C4A-4E76-918C-0598BB287D77</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PlayingWithAVFoundation</string>
+		</dict>
+	</array>
+</dict>
+</plist>
